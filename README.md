@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&height=100&section=header&text=mirim_kang%20&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=venom&height=100&section=header&text=mirim_kang%20&fontSize=50)
 
 
 
