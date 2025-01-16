@@ -20,27 +20,32 @@ Hello ! 👋 Welcome to My Repositories &nbsp; <img src="https://hits.seeyoufarm
 <br>
 <br/>
 
-### 📚 Main Skill & Stack
+### 📚 My current Study
 ༼ つ ◕_◕ ༽つ
 <br/>
 <br/>
+![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=suji3kr&show_icons=true&theme=tokyonight) 
+
+<!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dus1009)](https://solved.ac/dus1009/) -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=steven-yn&hide=jupyternotebook,java&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+<br/>
+<br/>
 <br/>
 <b>
  
-#### 👀*Stack*
-<b>
- 
-* *현 풀스텍 과정 수료중*
-* *빅데이터 과정 수료*
-* *UI/ UX 교과과정 수료*
-* *전 디자이너 겸임 기획*   
+### 👀*Stack*
+<br/>
+
+* 현 풀스텍 과정 수료중
+* 빅데이터 과정 수료
+* UI/ UX 교과과정 수료
+* 전 디자이너 겸임 기획   
 
 <br/>
 
-<br/>
 <b>
 
-#### 🖋*Skill*
+### 🖋*Skill*
 
 
 
@@ -77,6 +82,10 @@ Hello ! 👋 Welcome to My Repositories &nbsp; <img src="https://hits.seeyoufarm
 </div>
 
 <br>
+<br/>   
+<br/>   
+<br/>   
+<br/>   
 
 
 
@@ -96,8 +105,6 @@ Hello ! 👋 Welcome to My Repositories &nbsp; <img src="https://hits.seeyoufarm
 >  | 프로젝트 | 
 > 빅데이터"한국인의 삶2022-2024" 팀프로젝트 |
 
-
-
 >| 20.02 |  | 주얼리 디자이너, 전시 기획자 |
 >
 >| 18.02 |  | 미대 입시 고3  전임 강사 |
@@ -112,15 +119,13 @@ Hello ! 👋 Welcome to My Repositories &nbsp; <img src="https://hits.seeyoufarm
 
 <br/>
 
-<br/>
-
 -------------------------------------
 
  
 
 <br>
 
-### :runner: More Info 
+#### :runner: More Info 
 <br/>
 
 1994.02.07 현재 경기도 화성시 거주중
@@ -131,4 +136,5 @@ Hello ! 👋 Welcome to My Repositories &nbsp; <img src="https://hits.seeyoufarm
 > **email** 　 　cutesuji3kr@naver.com \
 &nbsp;&nbsp;
 > 
-<br/><br/><br/>
+<br/><br/>
+<br/>
